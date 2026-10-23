@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bat.th@yahoo.com
+	name = Th√eophile Bataille
